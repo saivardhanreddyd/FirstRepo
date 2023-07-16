@@ -1,6 +1,8 @@
 import math
 sum_two_numbers=math.pi;
 
-a,b,c, temp;
-temp =a+b+c;
-print(temp);
+a = 2 
+b = 3
+c=4
+print(a+b);
+print(a+b+c);
